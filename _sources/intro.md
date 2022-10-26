@@ -1,11 +1,13 @@
-# Welcome to your Jupyter Book
+# Eclipse Ecore Plugin
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## Proceso de instalación del plugin Ecore en eclipse y el proceso que se realiza para probarlo en un ejemplo práctico
 
-Check out the content pages bundled with this sample book to see more.
+Se presenta a continuación el paso a paso para poder instalar el plugin de **Ecore Diagram Editor**:
+
+Integrantes:
+
+1. Máximo Álvarez
+2. Lenin Quizhpe
 
 ```{tableofcontents}
 ```

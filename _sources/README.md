@@ -1,7 +1,7 @@
 # DSDM-Ecore
 
+```
 pip install jupyter-book
-
-jupyter-book create DSDM-milibro
-
-jupyter-book build DSDM-milibro
+jupyter-book create <nombre_proyecto>
+jupyter-book build .
+```
